@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1666812221, 392839908]
+build_end_time: [1666812221, 874995946]
+inputs:
+  "/Users/karthika/Documents/ListEmp/ListEmp/API/APIHandler.swift": [1666791184, 366199493]
+  "/Users/karthika/Documents/ListEmp/ListEmp/API/APILoader.swift": [1666734406, 708126783]
+  "/Users/karthika/Documents/ListEmp/ListEmp/AppDelegate.swift": [1666475293, 825620412]
+  "/Users/karthika/Documents/ListEmp/ListEmp/Business/EmployeeBusiness.swift": [1666734872, 203606128]
+  "/Users/karthika/Documents/ListEmp/ListEmp/EmployeeListTable.swift": [1666794796, 838592290]
+  "/Users/karthika/Documents/ListEmp/ListEmp/EmployeeTableViewCell.swift": [1666737068, 362063646]
+  "/Users/karthika/Documents/ListEmp/ListEmp/SceneDelegate.swift": [1666475293, 830731153]
+  "/Users/karthika/Documents/ListEmp/ListEmp/Service/Constants.swift": [1666812221, 196629285]
+  "/Users/karthika/Documents/ListEmp/ListEmp/Service/EmployeeAPI.swift": [1666734970, 598135232]
+  "/Users/karthika/Documents/ListEmp/ListEmp/Service/EmployeeServices.swift": [1666734431, 291452407]
+  "/Users/karthika/Documents/ListEmp/ListEmp/Supporting Classes/Extensions.swift": [1666794796, 811314105]
+  "/Users/karthika/Documents/ListEmp/ListEmp/Supporting Classes/Reachability.swift": [1666734872, 232103824]

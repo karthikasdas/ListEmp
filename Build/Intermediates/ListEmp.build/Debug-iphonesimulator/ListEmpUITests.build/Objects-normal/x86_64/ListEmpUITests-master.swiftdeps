@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "51ce0c48e31220e793c84e3f5d422832f29df455f4dfc59771079511c7473210"
+build_start_time: [1666806441, 19283056]
+build_end_time: [1666806442, 240561962]
+inputs:
+  "/Users/karthika/Documents/ListEmp/ListEmpUITests/ListEmpUITests.swift": [1666475295, 856069087]
+  "/Users/karthika/Documents/ListEmp/ListEmpUITests/ListEmpUITestsLaunchTests.swift": [1666475295, 861446380]
